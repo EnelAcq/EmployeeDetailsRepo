@@ -1,0 +1,13 @@
+﻿Build started...
+1>------ Build started: Project: EmployeeDetails, Configuration: Debug Any CPU ------
+1>C:\Users\Enel\source\repos\EmployeeDetails\EmployeeDetails\Form1.cs(42,24,42,33): warning CS0168: The variable 'Firstname' is declared but never used
+1>C:\Users\Enel\source\repos\EmployeeDetails\EmployeeDetails\Form1.cs(43,24,43,32): warning CS0168: The variable 'Lastname' is declared but never used
+1>  EmployeeDetails -> C:\Users\Enel\source\repos\EmployeeDetails\EmployeeDetails\bin\Debug\EmployeeDetails.exe
+Building EmployeeDetails...
+2>------ Publish started: Project: EmployeeDetails, Configuration: Debug Any CPU ------
+Connecting to 'C:\Users\Enel\Desktop\C# Practice\'...
+Publishing files...
+Publish success.
+C:\Users\Enel\Desktop\C# Practice\
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
+========== Publish: 1 succeeded, 0 failed, 0 skipped ==========
